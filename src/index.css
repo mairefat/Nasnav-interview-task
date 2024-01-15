@@ -8,11 +8,10 @@
   --gold: #fde047;
 }
 
-/* Additional CSS rules for styling your React components */
 
 @layer base {
   button {
-    @apply border border-black rounded-xl px-5 py-1;
+    @apply  py-1;
   }
 }
 
